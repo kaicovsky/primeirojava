@@ -1,3 +1,2 @@
 # primeirojava
-
-# Primeiro arquivo, com ex
+Primeiro arquivo, com exemplos
